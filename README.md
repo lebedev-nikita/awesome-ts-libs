@@ -1,4 +1,4 @@
-# My favorite libs
+# Niche libraries I prefer over alternatives
 
 - [dedent-js](https://www.npmjs.com/package/dedent-js)
 - [deep-equality-data-structures](https://www.npmjs.com/package/deep-equality-data-structures)
