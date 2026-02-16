@@ -1,0 +1,15 @@
+{
+  "name": "my-favorite-libs",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mui/material": "^7.3.8",
+    "clsx": "^2.1.1",
+    "react": "^19",
+    "react-intersection-observer": "^10.0.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.14"
+  }
+}
